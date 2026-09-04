@@ -34,7 +34,7 @@
 
 <br><br>
 
-**✦ En esta sección encontrarás 15 informes reales sobre Apis General que leí, estudié y guardé en mi gestor de informes para bug bounty personal.**
+**✦ En esta sección encontrarás 18 informes reales sobre Apis General que leí, estudié y guardé en mi gestor de informes para bug bounty personal.**
 <br><br>
 
 
@@ -43,6 +43,7 @@
 https://medium.com/@vishalsharma445500/hacking-apis-series-01-36-monolithic-vs-microservices-architecture-476f8e2ee367
 https://medium.com/@vishalsharma445500/hacking-apis-series-04-36-web-request-vs-api-request-understanding-the-differences-0117bdaa7b53
 https://medium.com/@vishalsharma445500/hacking-apis-series-03-36-web-apis-understanding-their-role-and-types-14a1e140c94f
+https://medium.com/@mohaba746/api-hacking-part-2-af94c576d22d
 https://infosecwriteups.com/mastery-hunt-hidden-api-endpoints-a-deep-dive-into-api-bug-bounty-recon-exploitation-9cc1d14b8c96
 https://meetcyber.net/how-to-specialize-in-api-bug-hunting-a-beginners-roadmap-e26e87204c8b
 https://medium.com/@NiaziSec/bug-bounty-hunting-web-vulnerability-api-testing-96a49acc4f35
