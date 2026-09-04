@@ -34,13 +34,14 @@
 
 <br><br>
 
-**✦ En esta sección encontrarás 18 informes reales sobre Apis General que leí, estudié y guardé en mi gestor de informes para bug bounty personal.**
+**✦ En esta sección encontrarás 20 informes reales sobre Apis General que leí, estudié y guardé en mi gestor de informes para bug bounty personal.**
 <br><br>
 
 
 ## ꧁ Lista de informes link directo ꧂
 ```yam
 https://medium.com/@vishalsharma445500/hacking-apis-series-01-36-monolithic-vs-microservices-architecture-476f8e2ee367
+https://medium.com/@mohaba746/api-hacking-part-1-3e47afee1f11
 https://medium.com/@vishalsharma445500/hacking-apis-series-04-36-web-request-vs-api-request-understanding-the-differences-0117bdaa7b53
 https://medium.com/@vishalsharma445500/hacking-apis-series-03-36-web-apis-understanding-their-role-and-types-14a1e140c94f
 https://medium.com/@mohaba746/api-hacking-part-2-af94c576d22d
