@@ -40,6 +40,7 @@
 
 ## ꧁ Lista de informes link directo ꧂
 ```yam
+https://medium.com/@vishalsharma445500/hacking-apis-series-04-36-web-request-vs-api-request-understanding-the-differences-0117bdaa7b53
 https://infosecwriteups.com/mastery-hunt-hidden-api-endpoints-a-deep-dive-into-api-bug-bounty-recon-exploitation-9cc1d14b8c96
 https://meetcyber.net/how-to-specialize-in-api-bug-hunting-a-beginners-roadmap-e26e87204c8b
 https://medium.com/@NiaziSec/bug-bounty-hunting-web-vulnerability-api-testing-96a49acc4f35
